@@ -22,7 +22,7 @@
 
 ## CONHECIMENTO GERAL:
 * [O Guia DEFINITIVO de UBUNTU para Devs Iniciantes - Fabio Akita](https://www.youtube.com/watch?v=epiyExCyb2s)
-* [Entendendo GIT - Fabio Akita]( https://www.youtube.com/watch?v=6Czd1Yetaac&feature=youtu.be e https://www.youtube.com/watch?v=6OokP-NE49k)
+* [Entendendo GIT - Fabio Akita](https://www.youtube.com/watch?v=6Czd1Yetaac&feature=youtu.be e https://www.youtube.com/watch?v=6OokP-NE49k)
 * []()
 * []()
 * []()
