@@ -5,4 +5,4 @@
 
 ## RUBY:
 * Curso Ruby do Jackson Pires;
-* [Livros: Conhecendo Ruby (Eustaquio Rangel)] (https://stream2.doceru.com/pdf_dummy/eyJpZCI6IjgxMDA2MTkiLCJuYW1lIjoiQ29uaGVjZW5kbyBSdWJ5IC0gRXVzdFx1MDBlMXF1aW8gUmFuZ2VsIiwiZXh0ZW5zaW9uIjoicGRmIiwiY2hlY2tzdW1faWQiOiIxNjIyNTg5MCJ9?)
+* [Livros: Conhecendo Ruby Eustaquio Rangel](https://stream2.doceru.com/pdf_dummy/eyJpZCI6IjgxMDA2MTkiLCJuYW1lIjoiQ29uaGVjZW5kbyBSdWJ5IC0gRXVzdFx1MDBlMXF1aW8gUmFuZ2VsIiwiZXh0ZW5zaW9uIjoicGRmIiwiY2hlY2tzdW1faWQiOiIxNjIyNTg5MCJ9?)
